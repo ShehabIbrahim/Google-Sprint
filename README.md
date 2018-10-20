@@ -1,6 +1,6 @@
 # Google Sprint for ClubHub
 
-Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with users. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.
+Google Sprint is a five-day process for answering critical business questions through design, prototyping, and testing ideas with users. Developed at Google Ventures, it’s a “greatest hits” of business strategy, innovation, behavior science, design thinking, and more—packaged into a battle-tested process that any team can use.
 
 Working together in a sprint, we shortcut the endless-debate cycle and compressed months of time into a single week. Instead of waiting to launch a minimal product to understand if an idea is any good, we got clear data from a realistic prototype. We planned our sprint with one big question in mind: How can we improve student experience by focusing on students' social life at NJIT?  
 
